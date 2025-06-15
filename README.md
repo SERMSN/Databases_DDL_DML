@@ -35,6 +35,7 @@ SELECT user, host FROM mysql.user;
 ```
 ##### Скриншот списка пользователей из phpMyAdmin
 ![Скриншот списка пользователей из phpMyAdmin](images/MySQL-3.png)
+
 1.4 Все права выдаются командой:
 ```
 GRANT ALL PRIVILEGES ON *.* TO 'sys_temp'@'%' WITH GRANT OPTION;
