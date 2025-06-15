@@ -46,6 +46,7 @@ SHOW GRANTS FOR 'sys_temp'@'%';
 ```
 ##### Скриншот прав из phpMyAdmin
 ![Скриншот прав из phpMyAdmin](images/MySQL-4.png)
+
 1.6 Подключение под пользователем sys_temp:
 ```
 mysql -u sys_temp -p 
@@ -53,7 +54,7 @@ mysql -u sys_temp -p
 ##### Скриншот подключение под пользователем sys_temp в консоле
 ![Скриншот подключение под пользователем sys_temp в консоле](images/MySQL-5_2.png)
 ##### Скриншот подключение под пользователем sys_temp к оболочке phpMyAdmin
-![Скриншот подключение под пользователем sys_temp в к оболочке phpMyAdmin](images/MySQL-5.png)
+![Скриншот подключение под пользователем sys_temp к оболочке phpMyAdmin](images/MySQL-5.png)
 
 1.7 Восстановления дампа
 ##### Скриншот загрузки дампа в MySQL
